@@ -166,3 +166,7 @@ sample_image/
 sample_video/
 pretrained_models/
 .python-version
+/.idea/
+pretrained_models.zip
+sources/hall_2_2 copy.mp4
+sources/hall_2_1 copy.MOV
